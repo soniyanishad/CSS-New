@@ -1,0 +1,202 @@
+.navbar{
+    background-color: #356193;
+    padding: 10px 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border: 2px solid  #f4f4f4;
+    border-radius: 5px;
+    box-shadow: 2px 2px 5px rgba(130, 57, 57, 0.1);
+}
+.logo{
+  
+    width: 100px;
+    height: 100px;
+    background-image: url('./flower-logo.jpg');
+    background-size: cover;
+    background-position: center;
+    float: left;
+    
+}
+.nav-links{
+    display: flex;
+    flex-direction: row;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    text-align: center;
+    font-size: 16px;
+    font-family: 'Arial', sans-serif;
+    font-weight: bold;
+    margin-top: 20px;
+    justify-content: center;
+    gap: 20px;
+}
+.content{
+    padding: 20px;
+    font-family: 'Arial', sans-serif;
+    font-size: 16px;
+    color: #333;
+    background-color: #f4f4f4;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    margin: 20px auto;
+   background-image: url('./natural-cosmetics-concept-with-copy-space.jpg');
+   background-repeat: no-repeat;
+   background-size: cover;
+    text-align: center;
+    border: 1px solid #ccc;
+    width: auto;
+    height: 600px;
+    
+}
+h3{
+    font-size: 24px;
+    margin-bottom: 10px;
+    color: #333;
+    text-align: center;
+    gap: 20px;
+}
+.products-row1{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 80px;
+    margin-top: 20px;
+    border: 2px solid beige;
+    
+}
+.products-row2{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 80px;
+    margin-top: 20px;
+    border: 2px solid beige;
+}
+
+.product1{
+    background-color: #fff;
+    border-radius: 5px;
+    box-shadow: 3px 3px 3px 3px red;
+    padding: 20px;
+    text-align: center;
+    width: 200px;
+    height: 300px;
+}
+.product1 img{
+    background-image: url();
+   
+    width: 200px;
+    height: 200px;
+    border-radius: 5px;
+}
+
+.product1 p{
+    font-size: 14px;
+    align-items: center;
+    color:black
+}
+.product2{
+    background-color: #fff;
+    border-radius: 5px;
+    box-shadow: 3px 3px 3px 3px red;
+    padding: 20px;
+    text-align: center;
+    width: 200px;
+    height: 300px;
+}
+
+.product2 img{
+    
+   
+    width: 200px;
+    height: 200px;
+    border-radius: 5px;
+}
+.product2 p{
+    font-size: 14px;
+    align-items: center;
+    color:black
+}
+.product3{
+    background-color: #fff;
+    border-radius: 5px;
+    box-shadow: 3px 3px 3px 3px red;
+    padding: 20px;
+    text-align: center;
+    width: 200px;
+    height: 300px;
+}
+.product3 img{
+
+   
+    width: 200px;
+    height: 200px;
+    border-radius: 5px;
+}
+.product3 p{
+    font-size: 14px;
+    align-items: center;
+    color:black
+}
+.product4{
+    background-color: #fff;
+    border-radius: 5px;
+    box-shadow: 3px 3px 3px 3px red;
+    padding: 20px;
+    text-align: center;
+    width: 200px;
+    height: 300px;
+}
+.product4 img{
+  
+    width: 200px;
+    height: 200px;
+    border-radius: 5px;
+}
+.product4 p{
+    font-size: 14px;
+    align-items: center;
+    color:black
+}
+.product5{
+    background-color: #fff;
+    border-radius: 5px;
+    box-shadow: 3px 3px 3px 3px red;
+    padding: 20px;
+    text-align: center;
+    width: 200px;
+    height: 300px;
+}
+.product5 img{
+   
+    width: 200px;
+    height: 200px;
+    border-radius: 5px;
+}
+.product5 p{
+    font-size: 14px;
+    align-items: center;
+    color:black
+}
+.product6{
+    background-color: #fff;
+    border-radius: 5px;
+    box-shadow: 3px 3px 3px 3px red;
+    padding: 20px;
+    text-align: center;
+    width: 200px;
+    height: 300px;
+}
+.product6 img{
+    
+    width: 200px;
+    height: 200px;
+    border-radius: 5px;
+}
+.product6 p{
+    font-size: 14px;
+    align-items: center;
+    color:black
+}
